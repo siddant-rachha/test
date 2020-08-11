@@ -1,3 +1,5 @@
 This is first line.
 Second line added.
-Third line added
+THIRD LINE IS ADDED!
+FOURTH LINE IS ALSO ADDED!!
+//YOUR CODE HAS BEEN MERGED
